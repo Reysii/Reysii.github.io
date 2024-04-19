@@ -1,10 +1,10 @@
 {
     "name": "RC",
-    "short-name": "Rc",
+    "short_name": "Rc",
     "start_url": ".",
     "display": "standalone",
     "theme_color": "red",
-    "background_color": "blue",
+    "background-color": "blue",
     "description": "OKAY",
     "icons": [
         {
