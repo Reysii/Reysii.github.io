@@ -20,5 +20,11 @@
 <body>
     <h1> Reysii App</h1>
     <p>Learning PWA sample website</p>
+
+    <script>
+        if("serviceWorker" in navigator){
+            navigator.serviceWorker.register("serviceworker.js");
+        }
+    </script>
 </body>
 </html>
